@@ -33,4 +33,13 @@ Si hacemos un commit sin dejar un comentario nos lanzara un menu (que es vim)
 donde nos indica que debemos hacer uno, para salir de ese menu lo 
 que tenemos que teclear es escape+shft+z+z (guardar)
 
+Para ver la diferencia entre un commit y otro usamos el log para obtener el id 
+del ultimo commit, por ejemplo
+
+commit 231548917358925641daskTGFJS7 (head bla bla)
+
+copiamos el id, osea  23141351354alfk etc y luego usamos
+//se usa primero el idAntiguo y luego la más reciente
+git diff id idAntiguo, o git diff 124134e34adj94o 318r4190848
+
 
