@@ -17,6 +17,7 @@ git config --global user.name
             y cambiamos el correo del autor con
 git config --global user.email
 
+aber el cambio :o 
 git config --list: nos muestra las opciones que se pueden configurar
 git log (file o .): nos muestra los cambios que se hicieron al archivo o 
                     carpeta, cuando se hicieron y quien los hizo
@@ -24,4 +25,3 @@ git log (file o .): nos muestra los cambios que se hicieron al archivo o
 dato globito: se usa el -- para especificar que el siguiente flag es una palabra
             por ejemplo el --global toma la palabra como un parametro y no como
             parametros g l o b a l si se usara un solo -
-            
