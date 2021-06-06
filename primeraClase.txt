@@ -1,0 +1,27 @@
+ya comprendow, ya entiendow, correctow
+Este pedo lo escribo como lo voy entendiendo, no tomo nada por seguro
+git init : inica el repositorio en la carpeta donde te encuentras de la terminal
+git status :  nos dice el estado del repositorio
+            si hay arhivos nuevos, modificados o borrados lo comenta
+git add file : agrega un file al repositorio 
+git add . : agrega toda la carpeta al repositorio
+git rm file : borra  el archivo del repositorio, mas no permanentemente
+                como lo hace el comando rm per se
+git commit: se usa para añadir un commit o como lo veo es una actualizacion
+            de los archivos que hayamos modificado/ creado
+            con el parametro -m "" podemos añadrle un mensaje despues
+            con una breve descripcion del commit que hayamos hecho
+git config: configuracion del git, aun no lo entiendo en profundidad las cosas
+            que se pueden configurar, de momento se cambio el autor con
+git config --global user.name
+            y cambiamos el correo del autor con
+git config --global user.email
+
+git config --list: nos muestra las opciones que se pueden configurar
+git log (file o .): nos muestra los cambios que se hicieron al archivo o 
+                    carpeta, cuando se hicieron y quien los hizo
+
+dato globito: se usa el -- para especificar que el siguiente flag es una palabra
+            por ejemplo el --global toma la palabra como un parametro y no como
+            parametros g l o b a l si se usara un solo -
+            
