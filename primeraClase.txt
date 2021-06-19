@@ -1,4 +1,4 @@
-ya comprendow, ya entiendow, correctow
+
 Este pedo lo escribo como lo voy entendiendo, no tomo nada por seguro
 git init : inica el repositorio en la carpeta donde te encuentras de la terminal
 git status :  nos dice el estado del repositorio
