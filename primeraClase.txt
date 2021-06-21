@@ -29,6 +29,7 @@ dato globito: se usa el -- para especificar que el siguiente flag es una palabra
             parametros g l o b a l si se usara un solo -
 
 Otro cambio para mostrar que cambio
+Otro cambio para poder añadir los tags
 
 Si hacemos un commit sin dejar un comentario nos lanzara un menu (que es vim) 
 donde nos indica que debemos hacer uno, para salir de ese menu lo 
