@@ -18,7 +18,7 @@ git config --global user.name
 git config --global user.email
 
 ya vi  el cambio :o 
-
+cambio para llaves ssh
 git config --list: nos muestra las opciones que se pueden configurar
 git log (file o .): nos muestra los cambios(cuando y quien) 
                     que se hicieron al archivo o carpeta
